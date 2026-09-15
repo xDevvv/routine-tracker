@@ -1,0 +1,20 @@
+| Step | Feature                    | Status   |
+| ---- | -------------------------- | -------- |
+| 1–4  | Laravel/project foundation | Done     |
+| 5–9  | Routines & tasks           | Done     |
+| 10   | Dashboard                  | Done     |
+| 11   | Calendar / fixed events    | Done     |
+| 12   | Availability               | Done     |
+| 13   | Free-time calculation      | Done     |
+| 14   | Scheduling rules           | Done     |
+| 15   | Conflict detection         | Done     |
+| 16   | Auto-adjust                | Done     |
+| 17   | Optimize My Day            | Done     |
+| 18   | Focus timer                | Done     |
+| 19   | Time tracking              | Done     |
+| 20   | Session history            | Done     |
+| 21   | Progress                   | Done     |
+| 22   | Weekly review              | Done     |
+| 23   | Settings                   | Done     |
+| 24   | Final PHPUnit/testing      | Done     |
+| 25   | Final cleanup/polish       | Done     |
